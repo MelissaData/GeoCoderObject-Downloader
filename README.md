@@ -9,7 +9,7 @@ To view the latest Melissa GeoCoder Object release notes or to subscribe to prod
 ## Tested Environments
 - Windows 64-bit .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 8.0
-- Melissa GeoCoder Object for 2025-Q4
+- Melissa GeoCoder Object for 2026-Q1
 
 ## Getting started
 
